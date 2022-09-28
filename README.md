@@ -8,4 +8,4 @@ Steps to play Boomed Box:
 
 3. Have Fun
 
-(Optional) 4. Look through the code and make fun of how terrible it is
+(Optional) 4. Look through the code and make fun of it
